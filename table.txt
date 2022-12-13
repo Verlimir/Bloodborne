@@ -1,0 +1,323 @@
+<div class="table-responsive"> 
+ <table class="table-weapons"> 
+  <tbody> 
+   <tr> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img style="width: 32px;" title="trick_weapons.png" src="/file/Bloodborne/trick_weapons.png" alt="trick_weapons.png"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="physical_atk.jpg" src="/file/Bloodborne/physical_atk.jpg" alt="physical_atk.jpg" width="32"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="blood_atk.jpg" src="/file/Bloodborne/blood_atk.jpg" alt="blood_atk.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="arcane_atk.jpg" src="/file/Bloodborne/arcane_atk.jpg" alt="arcane_atk.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="fire_atk.jpg" src="/file/Bloodborne/fire_atk.jpg" alt="fire_atk.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="bolt_atk.jpg" src="/file/Bloodborne/bolt_atk.jpg" alt="bolt_atk.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="slow_poison.jpg" src="/file/Bloodborne/slow_poison.jpg" alt="slow_poison.jpg" width="32"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="rapid_poison.jpg" src="/file/Bloodborne/rapid_poison.jpg" alt="rapid_poison.jpg" width="32"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="VS_kin.jpg" src="/file/Bloodborne/VS_kin.jpg" alt="VS_kin.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="VS_beasts.jpg" src="/file/Bloodborne/VS_beasts.jpg" alt="VS_beasts.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="strength.jpg" src="/file/Bloodborne/strength.jpg" alt="strength.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="skill.jpg" src="/file/Bloodborne/skill.jpg" alt="skill.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="bloodtingue.jpg" src="/file/Bloodborne/bloodtingue.jpg" alt="bloodtingue.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="arcane.jpg" src="/file/Bloodborne/arcane.jpg" alt="arcane.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="durability.jpg" src="/file/Bloodborne/durability.jpg" alt="durability.jpg"> 
+     </div> </th> 
+    <th> 
+     <div style="text-align: center;"> 
+      <img title="qs_bullet_use.jpg" src="/file/Bloodborne/qs_bullet_use.jpg" alt="qs_bullet_use.jpg"> 
+     </div> </th> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc7"><a href="/Blade+of+Mercy"><img title="blade_of_mercy.png" src="/file/Bloodborne/blade_of_mercy.png" alt="blade_of_mercy.png"></a></h4> <h4 id="toc8"><a name="x---Blade of Mercy"></a><a class="wiki_link" href="/Blade+of+Mercy">Blade of Mercy</a></h4> </td> 
+    <td style="text-align: center;">60</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">30</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">7<br> <br> -</td> 
+    <td style="text-align: center;">11<br> <br> C</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc13"><a href="/Burial+Blade"><img title="burial_blade.png" src="/file/Bloodborne/burial_blade.png" alt="burial_blade.png"></a></h4> <h4 id="toc14"><a name="x---Burial Blade"></a><a class="wiki_link" href="/Burial+Blade">Burial Blade</a></h4> </td> 
+    <td style="text-align: center;">80</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">30</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">10<br> <br> E</td> 
+    <td style="text-align: center;">12<br> <br> C</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc15"><a href="/Chikage"><img title="chikage.png" src="/file/Bloodborne/chikage.png" alt="chikage.png"></a></h4> <h4 id="toc16"><a name="x---Chikage"></a><a class="wiki_link" href="/Chikage">Chikage</a></h4> </td> 
+    <td style="text-align: center;">92</td> 
+    <td style="text-align: center;">92</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">30</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">10<br> <br> E</td> 
+    <td style="text-align: center;">14<br> <br> D</td> 
+    <td style="text-align: center;">12<br> <br> C</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">120</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><a href="/Hunter+Axe"><img title="hunter_axe.png" src="/file/Bloodborne/hunter_axe.png" alt="hunter_axe.png"></a><br> <h4 id="toc21"><a name="x---Hunter Axe"></a><a class="wiki_link" href="/Hunter+Axe">Hunter Axe</a></h4> </td> 
+    <td style="text-align: center;">98</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">9<br> <br> D</td> 
+    <td style="text-align: center;">8<br> <br> E</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">250</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc22"><a href="/Kirkhammer"><img title="kirkhammer.png" src="/file/Bloodborne/kirkhammer.png" alt="kirkhammer.png"></a></h4> <h4 id="toc23"><a name="x---Kirkhammer"></a><a class="wiki_link" href="/Kirkhammer">Kirkhammer</a></h4> </td> 
+    <td style="text-align: center;"><span style="font-size: 8pt;">105</span></td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">16<br> <br> C</td> 
+    <td style="text-align: center;">10<br> <br> E</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">0<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">250</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc26"><a href="/Logarius%27+Wheel"><img title="logarius_wheel.png" src="/file/Bloodborne/logarius_wheel.png" alt="logarius_wheel.png"></a></h4> <h4 id="toc27"><a name="x---Logarius' Wheel"></a><a class="wiki_link" href="/Logarius%27+Wheel">Logarius' Wheel</a></h4> </td> 
+    <td style="text-align: center; font-size: 7pt;"><span style="font-size: 8pt;">100</span></td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">25</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">20<br> <br> C</td> 
+    <td style="text-align: center;">12<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">10<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">300</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc28"><a href="/Ludwig%27s+Holy+Blade"><img title="ludwigs_holy_blade.png" src="/file/Bloodborne/ludwigs_holy_blade.png" alt="ludwigs_holy_blade.png"></a></h4> <h4 id="toc29"><a name="x---Ludwig's Holy Blade"></a><a class="wiki_link" href="/Ludwig%27s+Holy+Blade">Ludwig's Holy Blade</a></h4> </td> 
+    <td style="text-align: center; font-size: 7pt;"><span style="font-size: 8pt;">100</span></td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">16<br> <br> D</td> 
+    <td style="text-align: center;">12<br> <br> D</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">250</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc32"><a href="/Reiterpallasch"><img title="reiterpallasch.png" src="/file/Bloodborne/reiterpallasch.png" alt="reiterpallasch.png"></a></h4> <h4 id="toc33"><a name="x---@Reiterpallasch"></a><span class="watch-title long-title"><a class="wiki_link" href="/Reiterpallasch" target="_blank" rel="noopener noreferrer">Reiterpallasch</a></span></h4> </td> 
+    <td style="text-align: center;">75</td> 
+    <td style="text-align: center;">75</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">8<br> <br> E</td> 
+    <td style="text-align: center;">12<br> <br> C</td> 
+    <td style="text-align: center;">10<br> <br> E</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">120</span></td> 
+    <td style="text-align: center;">1</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc34"><a href="/Rifle+Spear"><img title="rifle_spear.png" src="/file/Bloodborne/rifle_spear.png" alt="rifle_spear.png"></a></h4> <h4 id="toc35"><a name="x---Rifle Spear"></a><a class="wiki_link" href="/Rifle+Spear">Rifle Spear</a></h4> </td> 
+    <td style="text-align: center;">85</td> 
+    <td style="text-align: center;">85</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">10<br> <br> E</td> 
+    <td style="text-align: center;">11<br> <br> D</td> 
+    <td style="text-align: center;">9<br> <br> D</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">180</span></td> 
+    <td style="text-align: center;">1</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><a href="/Saw+Cleaver"><img title="saw_cleaver.png" src="/file/Bloodborne/saw_cleaver.png" alt="saw_cleaver.png"></a><br> <h4 id="toc36"><a name="x---Saw Cleaver"></a><a class="wiki_link" href="/Saw+Cleaver">Saw Cleaver</a></h4> </td> 
+    <td style="text-align: center;">90</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">8<br> <br> D</td> 
+    <td style="text-align: center;">7<br> <br> E</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc37"><a href="/Saw+Spear"><img title="saw_spear.png" src="/file/Bloodborne/saw_spear.png" alt="saw_spear.png"></a></h4> <h4 id="toc38"><a name="x---Saw Spear"></a><a class="wiki_link" href="/Saw+Spear">Saw Spear</a></h4> </td> 
+    <td style="text-align: center;">85</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">7<br> <br> D</td> 
+    <td style="text-align: center;">8<br> <br> D</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc41"><a href="/Stake+Driver"><img title="stake_driver.png" src="/file/Bloodborne/stake_driver.png" alt="stake_driver.png"></a></h4> <h4 id="toc42"><a name="x---Stake Driver"></a><a class="wiki_link" href="/Stake+Driver">Stake Driver</a></h4> </td> 
+    <td style="text-align: center;">85</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">18<br> <br> D</td> 
+    <td style="text-align: center;">9<br> <br> D</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><a href="/Threaded+Cane"><img title="threaded_cane.png" src="/file/Bloodborne/threaded_cane.png" alt="threaded_cane.png"></a><br> <h4 id="toc43"><a name="x---Threaded Cane"></a><a class="wiki_link" href="/Threaded+Cane">Threaded Cane</a></h4> </td> 
+    <td style="text-align: center;">78</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">7<br> <br> E</td> 
+    <td style="text-align: center;">9<br> <br> C</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center;"><span style="font-size: 7pt;">200</span></td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"> <h4 id="toc44"><a href="/Tonitrus"><img title="tonitrus.png" src="/file/Bloodborne/tonitrus.png" alt="tonitrus.png"></a></h4> <h4 id="toc45"><a name="x---Tonitrus"></a><a class="wiki_link" href="/Tonitrus">Tonitrus</a></h4> </td> 
+    <td style="text-align: center;">80</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">40</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">12<br> <br> D</td> 
+    <td style="text-align: center;">8<br> <br> E</td> 
+    <td style="text-align: center;">-<br> <br> -</td> 
+    <td style="text-align: center;">-<br> <br> D</td> 
+    <td style="text-align: center; font-size: 7pt;">100</td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
